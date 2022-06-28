@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/andrewfink/code/web/amplifyapp/amplify/backend/api/amp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
